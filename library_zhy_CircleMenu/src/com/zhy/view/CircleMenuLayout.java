@@ -418,7 +418,7 @@ public class CircleMenuLayout extends ViewGroup
 			return tmpY >= 0 ? 4 : 1;
 		} else
 		{
-			return tmpY >= 0 ? 3 : 2;
+			return tmpY >= 0 ? 2 : 3;
 		}
 
 	}
